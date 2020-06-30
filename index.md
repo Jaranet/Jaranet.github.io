@@ -9,3 +9,5 @@ In den Jahren von 1991 bis 1993 spielte Reynolds in der Nickelodeon-Serie Hillsi
 * hat mal bei X-Men mit gespielt
 * bla
   * bla bla
+  
+> I don’t expect success. I prepare for it.
